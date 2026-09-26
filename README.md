@@ -22,7 +22,7 @@ This program takes the user's name, weight, and height as input, calculates thei
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/BMI-Calculator.git
+git clone https://github.com/K-VACH01/BMI-Calculator.git
 
 ### 2. Open the project folder
 
